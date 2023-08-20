@@ -18,7 +18,7 @@ Age groups:
 * 16 < 18
 * 18 < 21
 * Selected Crimes:  
-|BKA Schluessel|Crime German|Crime English|
+|BKA Schluessel|Crime German|Crime English| 
 |---|---|---|
 |------|Straftaten insgesamt| Total offences|
 |100000|Straftaten gegen die sexuelle Selbstbestimmung insgesamt|Sexual offences|
