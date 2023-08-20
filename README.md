@@ -13,10 +13,24 @@ They would like to know the current level of juvenile crime, the development ove
 ### Scope
 Time Frime: last five years (2018 - 2022)
 Area: Germany and its 16 federal states
-Age groups:    14 < 16
-                16 < 18  
-                18 < 21
-
+Age groups:
+* 14 < 16
+* 16 < 18
+* 18 < 21
+* Selected Crimes:
+| BKA Schluessel | Crime German	| Crime English |
+| ------	| Straftaten insgesamt	| Total offences
+| 100000	| Straftaten gegen die sexuelle Selbstbestimmung insgesamt	| Sexual offences
+| 210000	| Raub, räuberische Erpressung und räuberischer Angriff auf Kraftfahrer §§ 249-252, 255, 316a StGB	| Robbery
+| 220000	| Körperverletzung §§ 223-227, 229, 231 StGB	| Assault
+| 232100	| Freiheitsberaubung § 239 StGB	| Deprivation of liberty
+| 232200	| Nötigung § 240 StGB	| Coercion
+| 435*00	| Wohnungseinbruchdiebstahl §§ 244 Abs. 1 Nr. 3 und Abs. 4, 244a StGB	| Residential burglary
+| 2600	| Ladendiebstahl insgesamt	| Shoplifting
+| 674000	| Sachbeschädigung §§ 303-305a StGB	| Damage to property
+| 730000	| Rauschgiftdelikte (soweit nicht bereits mit anderer Schlüsselzahl erfasst)	| Drug offences (w/o procurement)
+| 891100	| direkte Beschaffungskriminalität	| Drug procurement crime
+| 010000, 020010	| Mord § 211 StGB, Totschlag § 212 StGB	| Homicide
 
 
 ### Data Sources
