@@ -19,6 +19,7 @@ Age groups:
 * 18 < 21
 * Selected Crimes:  
 |BKA Schluessel|Crime German|Crime English|
+|---|---|---|
 |------|Straftaten insgesamt| Total offences|
 |100000|Straftaten gegen die sexuelle Selbstbestimmung insgesamt|Sexual offences|
 |210000|Raub, räuberische Erpressung und räuberischer Angriff auf Kraftfahrer §§ 249-252, 255, 316a StGB|Robbery|
@@ -31,6 +32,7 @@ Age groups:
 |730000|Rauschgiftdelikte (soweit nicht bereits mit anderer Schlüsselzahl erfasst)|Drug offences (w/o procurement)|
 |891100|direkte Beschaffungskriminalität|Drug procurement crime|
 |010000, 020010|Mord § 211 StGB, Totschlag § 212 StGB|Homicide|
+||||
 
 
 ### Data Sources
