@@ -11,7 +11,11 @@ They would like to know the current level of juvenile crime, the development ove
 ![Alt text](pictures/scenario.png)
 
 ### Scope
-
+Time Frime: last five years (2018 - 2022)
+Area: Germany and its 16 federal states
+Age groups:    14 < 16
+                16 < 18  
+                18 < 21
 
 
 
