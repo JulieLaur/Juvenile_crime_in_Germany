@@ -17,7 +17,7 @@ Age groups:
 * 14 < 16
 * 16 < 18
 * 18 < 21
-* Selected Crimes:
+* Selected Crimes:  
 | BKA Schluessel | Crime German	| Crime English |
 | ------	| Straftaten insgesamt	| Total offences
 | 100000	| Straftaten gegen die sexuelle Selbstbestimmung insgesamt	| Sexual offences
