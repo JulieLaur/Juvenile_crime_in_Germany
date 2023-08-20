@@ -20,6 +20,7 @@ Age groups:
 * Selected Crimes:
   
 |BKA Schluessel|Crime German|Crime English| 
+|---|---|---|
 |------|Straftaten insgesamt| Total offences|
 |100000|Straftaten gegen die sexuelle Selbstbestimmung insgesamt|Sexual offences|
 |210000|Raub, räuberische Erpressung und räuberischer Angriff auf Kraftfahrer §§ 249-252, 255, 316a StGB|Robbery|
