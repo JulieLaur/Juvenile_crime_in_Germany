@@ -46,6 +46,9 @@ They would like to know the current level of juvenile crime, the development ove
 
 ## Data Sources
 
-* Police crime statistics: PKS Bundeskriminalamt, 2018 - 2022, Version 2.0
+* [Police crime statistics: PKS Bundeskriminalamt, 2018 - 2022, Version 2.0](https://www.bka.de/DE/AktuelleInformationen/StatistikenLagebilder/PolizeilicheKriminalstatistik/pks_node.html)
 
-* German federal statistical office (Statistisches Bundesamt - Destatis)
+* [German federal statistical office (Statistisches Bundesamt - Destatis)](https://www-genesis.destatis.de/genesis/online?sequenz=statistikTabellen&selectionname=12411#abreadcrumb)<br>
+
+The tables from the German federal criminal police office (BKA) provide the numbers of supsects in absolute numbers. Additionally, relative numbers were calculated on the basis of the population figures in the respective age groups provided by the German federal statistical office. The population figures of 31 December of the respective previous year (reporting date) were used.
+
