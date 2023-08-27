@@ -1,12 +1,16 @@
 ## Juvenile_crime_in_Germany
 This repository shows our final project of the Advanced Data Analytics Bootcamp at neuefische GmbH:  
 # Juvenile crime in Germany - current extent, distribution, and development
-In this README file, you find an introduction to the topic and a description on the fictitious scenario that served us as assigned task. Furthermore, the scope, the sources and the tools used, are described. <br> <br> 
-If you would like to go directly to the final outcome/result(?), click on this link: https://crime-germany.streamlit.app/ - it redirects you to the dashboard that provides at-a-glance views on the current extent, distribution, and recent development of juvenile crime in Germany and its 16 federal states.<br>
+In this README file, you find an introduction to the topic and a description on the fictitious scenario that we assumed as our assigned task. Furthermore, you find a description of the scope, the sources and the tools we used. <br>
 
+If you would like to see our final delivery directly, click on the following link: https://crime-germany.streamlit.app/.<br> It redirects you to our dashboard that provides at-a-glance views on the current extent, distribution, and recent development of juvenile crime in Germany and its 16 federal states.<br>
+
+This repository provides in several jupyter notebooks the code we used to gather, clean, and prepare the data for our dashboard. Furthermore, you find code on creating some additional charts for the final presentation of our project, which was held on the 21st of August 2023.<br>
+
+The code that runs the dashboard can be viewed in a separate repository: LINK
 
 ## What is juvenile crime?
-In Germany, offences committed by persons aged between 14 and 20 are classified as juvenile crime.
+In Germany, offences committed by persons aged between 14 and 20 are classified as juvenile crime. That means juvenile crime not only includes offences by juveniles (persons aged 14 to under 18), but also offences commited by adolescents (persons aged 18 to under 21).
 
 ## Scenario (Fictive)
 While the implementation competence of preventive action against juvenile crime lies with the 16 federal states of Germany, the research on prevention and the development of preventive strategies is taken over by social science research institutes. Germany is involved in this process in the role of the Bundesministerium für Familie, Senioren, Frauen und Jugend. The BMFSFJ is responsible for stimulating action in the 16 federal states and for allocating funds on research.  
