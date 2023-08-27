@@ -12,13 +12,14 @@ The code that runs the dashboard can be viewed in a separate repository: LINK
 ## What is juvenile crime?
 In Germany, offences committed by persons aged between 14 and 20 are classified as juvenile crime. That means juvenile crime not only includes offences by juveniles (persons aged 14 to under 18), but also offences commited by adolescents (persons aged 18 to under 21).
 
+## Who acts on prevention of juvenile crime?
+While the implementation competence of preventive action against juvenile crime lies with the 16 federal states of Germany, the research on prevention and the development of preventive strategies is taken over by social science research institutes. Germany is involved in this process in the role of the Bundesministerium für Familie, Senioren, Frauen und Jugend. The BMFSFJ is responsible for stimulating action in the 16 federal states and for allocating funds on research.
 ## Scenario (Fictive)
-While the implementation competence of preventive action against juvenile crime lies with the 16 federal states of Germany, the research on prevention and the development of preventive strategies is taken over by social science research institutes. Germany is involved in this process in the role of the Bundesministerium für Familie, Senioren, Frauen und Jugend. The BMFSFJ is responsible for stimulating action in the 16 federal states and for allocating funds on research.  
-
 In order to be able to optimally fulfill its competences to stimulate adequate action and to distribute funds appropriately, the BMFSFJ assigned us to provide them with a comprehensive overview of the current extent of juvenile crime in Germany.
 
 They would like to know the current level of juvenile crime, the development over the recent years, the offenses that account for the majority of juvenile crime, and the distribution of the most common offenses.
 
+![](pictures/scenario.png)
 ### Scope
 
 * Time frame: last five years (2018 - 2022)
