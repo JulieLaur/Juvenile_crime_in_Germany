@@ -1,5 +1,5 @@
 ## Juvenile_crime_in_Germany
-This repository shows our final project of the Advanced Data Analytics Bootcamp at neuefische GmbH:  
+This repository shows our ([Johanna Köpke](https://www.linkedin.com/in/johanna-koepke/), [Julie Laur](https://www.linkedin.com/in/julie-laur-a4167713a/), [Alexander Schuppe](https://www.linkedin.com/in/alexander-schuppe/)) final project of the Advanced Data Analytics Bootcamp at neuefische GmbH:  
 # Juvenile crime in Germany - current extent, distribution, and development
 In this README file, you find an introduction to the topic and a description on the fictitious scenario that we assumed as our assigned task. Furthermore, you find a description of the scope, the sources and the tools we used. <br>
 
