@@ -1,7 +1,7 @@
 ## Juvenile_crime_in_Germany
 This repository shows our ([Johanna Köpke](https://www.linkedin.com/in/johanna-koepke/), [Julie Laur](https://www.linkedin.com/in/julie-laur-a4167713a/), [Alexander Schuppe](https://www.linkedin.com/in/alexander-schuppe/)) final project of the Advanced Data Analytics Bootcamp at neuefische GmbH:  
 # Juvenile crime in Germany - current extent, distribution, and development
-In this README file, you find an introduction to the topic and a description on the fictitious scenario that we assumed as our assigned task. Furthermore, you find a description of the scope, the sources, the process and deliverables, and the tools we used. <br>
+In this README file, you find an introduction to the topic and a description on the fictitious scenario that we assumed as our assigned task. Furthermore, you find a description of the scope, the sources, the process and deliverables, and a list of the tools and technologies we used. <br>
 
 If you would like to see our final delivery directly, click on the following link: https://crime-germany.streamlit.app/.<br> It redirects you to our dashboard that provides at-a-glance views on the current extent, distribution, and recent development of juvenile crime in Germany and its 16 federal states.<br>
 
