@@ -64,6 +64,6 @@ to provide overview of current exctent, distribution, and recent development of 
 In our presentation we chose Hamburg as an example of one of the 16 federal states to show insights that were generated with the dashboard.
 
 ## Tools and technologies
-SCREENSHOT n  
+![](pictures/tools.png)
 
 
