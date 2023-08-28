@@ -54,13 +54,15 @@ They would like to know the current level of juvenile crime, the development ove
 
 * [German federal statistical office (Statistisches Bundesamt - Destatis)](https://www-genesis.destatis.de/genesis/online?sequenz=statistikTabellen&selectionname=12411#abreadcrumb)<br>
 
-The tables from the German federal criminal police office (BKA) provide the numbers of supsects in absolute numbers. Additionally, we calculated relative numbers on the basis of the population figures in the respective age groups provided by the German federal statistical office. The population figures of 31 December of the respective previous year (reporting date) were used.
+The tables from the German federal criminal police office (BKA) provide the numbers of supsects in absolute numbers. Additionally, relative numbers were calculated on the basis of the population figures in the respective age groups provided by the German federal statistical office. The population figures of 31 December of the respective previous year (reporting date) were used.
 
 
 ## Process and deliverables
 Our development process started with importing the data from the BKA and Destatis into DataFrames to explore them further. After cleaning, merging and concatenating the tables, we stored them in a PostgreSQL database (Microsoft Azure). We then performed an initial EDA using Python, specifically Pandas. Then we created the final DataFrames we wanted to use in the dashboard and stored them in our database as well. Finally, we created a dashboard using Streamlit, for the creation of our charts we used Plotly. 
 
-In order to get an overview of the current extent, distribution and recent development of juvenile crime, we decided to develop a dashboard. The dashboard can be used to look at Germany in general and the 16 federal states individually. It is also possible to look by age groups or different types of offences. In addition, all offender figures can be displayed in the dashboard both in absolute and relative terms.
+In order to get an overview of the current extent, distribution and recent development of juvenile crime, we decided to develop a dashboard. The dashboard can be used to look at Germany in general and the 16 federal states individually. It is also possible to look by age groups or different types of offences. In addition, all offender figures can be displayed in the dashboard both in absolute and relative terms. The dashboard can be viewed at the following link: https://crime-germany.streamlit.app/. The code that runs the dashboard is stored in a separate repository: https://github.com/alexmahesh/Crime_GER.
+
+
 In our presentation, we chose Hamburg as an example for one of the 16 federal states to show insights generated with the dashboard.
 
 ## Tools and technologies
