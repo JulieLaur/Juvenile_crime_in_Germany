@@ -7,7 +7,7 @@ If you would like to see our final delivery directly, click on the following lin
 
 This repository provides in several jupyter notebooks the code we used to gather, clean, and prepare the data for our dashboard. Furthermore, you find code on creating some additional charts for the final presentation of our project, which was held on the 21st of August 2023.<br>
 
-The code that runs the dashboard can be viewed in a separate repository: LINK
+The code that runs the dashboard can be viewed in a separate repository: https://github.com/alexmahesh/Crime_GER
 
 ## What is juvenile crime?
 In Germany, offences committed by persons aged between 14 and 20 are classified as juvenile crime. That means juvenile crime not only includes offences by juveniles (persons aged 14 to under 18), but also offences commited by adolescents (persons aged 18 to under 21).
