@@ -58,10 +58,10 @@ The tables from the German federal criminal police office (BKA) provide the numb
 
 
 ## Process and deliverables
-Our development process started with importing the data from the BKA and Destatis into DataFrames to further investigate it. After cleaning, merging, and concatenating the tables, we stored them in a PostgreSQL database (Microsoft Azure). Afterwards, we performed first EDA with Python, especially Pandas and plotly. Then, we created the final DataFrames we decided to use in the dashboard and also stored them in our database. Finally, we created a dashboard using streamlit. 
+Our development process started with importing the data from the BKA and Destatis into DataFrames to explore them further. After cleaning, merging and concatenating the tables, we stored them in a PostgreSQL database (Microsoft Azure). We then performed an initial EDA using Python, specifically Pandas and Plotly. Then we created the final DataFrames we wanted to use in the dashboard and stored them in our database as well. Finally, we created a dashboard using Streamlit. 
 
-to provide overview of current exctent, distribution, and recent development of juvenile crime, we decided to develop a dashboard. The Dashboard can be used to look at germany in general and at its 16 federal states individually. furthermore can look at age groups, crimes seperatley. additionally relative numbers to ...
-In our presentation we chose Hamburg as an example of one of the 16 federal states to show insights that were generated with the dashboard.
+In order to get an overview of the current extent, distribution and recent development of juvenile crime, we decided to develop a dashboard. The dashboard can be used to look at Germany in general and the 16 federal states individually. It is also possible to look by age groups or different types of offences. In addition, all offender figures can be displayed in the dashboard both in absolute and relative terms.
+In our presentation, we have chosen Hamburg as an example for one of the 16 federal states to show insights generated with the dashboard.
 
 ## Tools and technologies
 ![](pictures/tools.png)
