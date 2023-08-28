@@ -65,7 +65,7 @@ In order to get an overview of the current extent, distribution and recent devel
 
 In our presentation, we chose Hamburg as an example for one of the 16 federal states to show insights generated with the dashboard. One of our key findings is that Assault, Shoplifting, and Drug offences (excluding the procurement of drugs) were the three offences most frequently committed in each of the last 5 years and that these each accounted for over 55% of total juvenile crime.
 
-![]()
+![](pictures/juvenile_crime_hamburg.png)
 
 More key findings can be viewed in the [presentation](presentation/Juvenile%20crime%20in%20Germany_presentation.pdf).
 
