@@ -61,7 +61,7 @@ The tables from the German federal criminal police office (BKA) provide the numb
 Our development process started with importing the data from the BKA and Destatis into DataFrames to explore them further. After cleaning, merging and concatenating the tables, we stored them in a PostgreSQL database (Microsoft Azure). We then performed an initial EDA using Python, specifically Pandas and Plotly. Then we created the final DataFrames we wanted to use in the dashboard and stored them in our database as well. Finally, we created a dashboard using Streamlit. 
 
 In order to get an overview of the current extent, distribution and recent development of juvenile crime, we decided to develop a dashboard. The dashboard can be used to look at Germany in general and the 16 federal states individually. It is also possible to look by age groups or different types of offences. In addition, all offender figures can be displayed in the dashboard both in absolute and relative terms.
-In our presentation, we have chosen Hamburg as an example for one of the 16 federal states to show insights generated with the dashboard.
+In our presentation, we chose Hamburg as an example for one of the 16 federal states to show insights generated with the dashboard.
 
 ## Tools and technologies
 ![](pictures/tools.png)
