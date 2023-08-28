@@ -1,11 +1,11 @@
 ## Juvenile_crime_in_Germany
 This repository shows our ([Johanna Köpke](https://www.linkedin.com/in/johanna-koepke/), [Julie Laur](https://www.linkedin.com/in/julie-laur-a4167713a/), [Alexander Schuppe](https://www.linkedin.com/in/alexander-schuppe/)) final project of the Advanced Data Analytics Bootcamp at neuefische GmbH:  
 # Juvenile crime in Germany - current extent, distribution, and development
-In this README file, you find an introduction to the topic and a description on the fictitious scenario that we assumed as our assigned task. Furthermore, you find a description of the scope, the sources and the tools we used. <br>
+In this README file, you find an introduction to the topic and a description on the fictitious scenario that we assumed as our assigned task. Furthermore, you find a description of the scope, the sources, the process and deliverables, and the tools we used. <br>
 
 If you would like to see our final delivery directly, click on the following link: https://crime-germany.streamlit.app/.<br> It redirects you to our dashboard that provides at-a-glance views on the current extent, distribution, and recent development of juvenile crime in Germany and its 16 federal states.<br>
 
-This repository provides in several jupyter notebooks the code we used to gather, clean, and prepare the data for our dashboard. Furthermore, you find code on creating some additional charts for the final presentation of our project, which was held on the 21st of August 2023.<br>
+This repository provides in several jupyter notebooks the code we used to gather, clean, and prepare the data for our dashboard. Furthermore, you find the slides of the final presentation, which was held on the 21st of August 2023.<br>
 
 The code that runs the dashboard can be viewed in a separate repository: https://github.com/alexmahesh/Crime_GER
 
@@ -55,4 +55,15 @@ They would like to know the current level of juvenile crime, the development ove
 * [German federal statistical office (Statistisches Bundesamt - Destatis)](https://www-genesis.destatis.de/genesis/online?sequenz=statistikTabellen&selectionname=12411#abreadcrumb)<br>
 
 The tables from the German federal criminal police office (BKA) provide the numbers of supsects in absolute numbers. Additionally, relative numbers were calculated on the basis of the population figures in the respective age groups provided by the German federal statistical office. The population figures of 31 December of the respective previous year (reporting date) were used.
+
+
+## Process and deliverables
+Our development process started with importing the data from the BKA and Destatis into DataFrames to further investigate it. After cleaning, merging, and concatenating the tables, we stored them in a PostgreSQL database (Microsoft Azure). Afterwards, we performed first EDA with Python, especially Pandas and plotly. Then, we created the final DataFrames we decided to use in the dashboard and also stored them in our database. Finally, we created a dashboard using streamlit. 
+
+to provide overview of current exctent, distribution, and recent development of juvenile crime, we decided to develop a dashboard. The Dashboard can be used to look at germany in general and at its 16 federal states individually. furthermore can look at age groups, crimes seperatley. additionally relative numbers to ...
+In our presentation we chose Hamburg as an example of one of the 16 federal states to show insights that were generated with the dashboard.
+
+## Tools and technologies
+SCREENSHOT
+
 
