@@ -23,7 +23,7 @@ They would like to know the current level of juvenile crime, the development ove
 
 ![](pictures/scenario.png)
 ---
-### Scope
+## Scope
 
 * Time frame: last five years (2018 - 2022)
 * Area: Germany and its 16 federal states
